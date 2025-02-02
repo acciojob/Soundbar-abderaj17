@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.buttons{
+	padding: 54px;
+	background-color: brown;
+}
+button{
+	padding: 10px;
+	margin: 10px;
+}
